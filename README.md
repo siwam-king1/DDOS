@@ -25,6 +25,15 @@ Open Termux and run the following command:
    cd DDOS
    python sk1.py
    ```
+Single Line Code For Termux  :
+   ```bash
+pkg update && pkg upgrade && pkg install git && pkg install golang && git clone https://github.com/siwam-king1/DDOS.git && cd DDOS && python sk1.py
+   ```
+
+If already clonned in Termux  :
+   ```bash
+cd DDOS && python sk1.py
+   ```
 
 
 ## ** Disclaimer:** 
